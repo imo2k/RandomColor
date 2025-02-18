@@ -12,7 +12,6 @@
 
 /* Begin PBXFileReference section */
 		A567A5AA2D630C6400442549 /* SwiftStudy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftStudy.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A567A5C22D630C8D00442549 /* dataStructure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = dataStructure.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -51,7 +50,6 @@
 		A567A5A12D630C6400442549 = {
 			isa = PBXGroup;
 			children = (
-				A567A5C22D630C8D00442549 /* dataStructure.playground */,
 				A567A5AC2D630C6400442549 /* SwiftStudy */,
 				A567A5AB2D630C6400442549 /* Products */,
 			);
